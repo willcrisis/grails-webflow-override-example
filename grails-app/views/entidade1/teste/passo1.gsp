@@ -1,0 +1,1 @@
+<g:render template="/entidade1/teste/passo1" />
